@@ -1,0 +1,94 @@
+body{
+    background-color: grey;
+
+}
+h2{
+    color: white;
+    margin-left: 60px;
+    position: absolute;
+}
+h2::after{
+    content: ".";
+    color: red;
+}
+.b{
+    color: white;
+     padding-bottom: 50px;
+    padding-left: 600px;
+    position: absolute;
+    
+}
+.rrr{
+    color: white;
+    padding-left: 900px;
+    position: absolute;
+}
+.a{
+    height: 40px;
+    width: 1000px;
+    position: absolute;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 70px;
+    margin-left: 60px;
+    word-spacing: 30px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+.image{
+    position: absolute;
+    padding-left: 570px;
+    padding-top: 8px;
+}
+.image2{
+    position: absolute;
+    
+    padding-left: 865px;
+    padding-top: 10px;
+}
+.c{
+    position: absolute;
+    word-spacing: 50px;
+    padding-top: 95px;
+    padding-left: 920px;
+}
+.d{
+    position: absolute;
+    padding-left: 500px;
+    padding-top: 50px;
+    z-index: -1;
+}
+.e{
+    position: absolute;
+    color: red;
+    font-style: italic;
+    padding-top: 250px;
+    padding-left: 150px;
+}
+.f{
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 270px;
+    padding-left: 150px;
+}
+.g{
+    position: absolute;
+    color: white;
+    padding-top: 380px;
+    padding-left: 150px;
+}
+.h{
+    position: absolute;
+
+    margin-top: 450px;
+    margin-left: 150px;
+    height: 50px;
+    width: 130px;
+    border: none;
+    border-radius: 30% 0% 30% 0%;
+    background-color: red;
+    color: white;
+    
+}

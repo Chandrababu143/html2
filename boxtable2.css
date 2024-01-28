@@ -1,0 +1,33 @@
+.a{
+    background-color: yellow;
+    width: 500px;
+  }
+  .b{
+    background-color: aqua;
+    width: 500px;
+    padding: 5px;
+  }
+  .c{
+    background-color: purple;
+    width: 500px;
+    height: 100px;
+    
+  }
+  .c  p{
+    position: relative;
+    top: 10px;
+  }
+
+  
+  .d{
+    background-color: green;
+    width: 500px;
+  } 
+  .d p{
+    position: relative;
+    left: 20px;
+  }
+  .e{
+    background-color: green;
+    width: 500px;
+  }

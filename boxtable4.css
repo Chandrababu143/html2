@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    gap: 1rem;
+}
+.a{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+}
+.b{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+}
+.c{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+    padding: 20px;
+}
+.d{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+    padding: 20px;
+    margin: 20px; 
+}

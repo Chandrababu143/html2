@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+   
+ }
+ body{
+    background-color: rgb(40, 153, 153);
+    overflow: hidden;
+ }
+ .box1 h1{
+    position: relative;
+    left: 10%;
+    top:20px;
+    font-size: 40px;
+    color: rgb(138, 92, 92);
+ }
+ .box {
+    display: flex;
+    justify-content: center;
+   position: relative;
+   left: 20%;
+   top: 2%;
+ }
+ .box li{
+    display: inline;
+    padding: 10px;
+ }
+ 
+ .box li a{
+    color: white;
+ }
+ .box2{
+ position: absolute;
+ left: 25%;
+ top: 40%;
+ 
+ }
+ .box2 h1{
+    position: absolute;
+    left: 30%;
+    color: white;
+    font-size: 50px;
+ }
+ .box2 h2{
+    position: absolute;
+    left: 40%;
+    margin-top: 7%;
+    
+ }
+ .box2 p{
+    margin-top: 12%;
+  }
+  .box2 button{
+    position: absolute;
+    left: 40%;
+  margin-top: 3%;
+  border-color: white;
+  color: white;
+ padding: 10px;
+ background-color: transparent;
+  }  

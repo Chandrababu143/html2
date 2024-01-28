@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-delivery-banner-poster-background-image_12237.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+ 
+  }
+  .container1{
+    position: absolute;
+   top: 2%;
+   left: 10%;
+   
+  }
+  .container1 h4{
+    font-size: 30px;
+  }
+  .container
+  {
+    display: flex;
+    justify-content: right;
+    margin-top: 1%;
+ 
+  }
+  .container li{
+    display: inline;
+    list-style-type: none;
+    padding: 20px;
+    
+  }
+  
+  .container li a{
+    color: red;
+  }
+  .container button{
+    padding: 10px;
+    background-color:blue;
+    border-radius: 10px;
+    border: none;
+  }
+  
+ .container2{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+  
+ }
+ .container2 h1{
+    font-size:45px;
+ }
+ .container2 span{
+    color: gray;
+ }
+ .container2 button{
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    background-color: orange;
+ }
+ .container3{
+    position: absolute;
+    left: 50%;
+    top: 15%;
+ }
